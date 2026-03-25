@@ -75,6 +75,3 @@ Pull request’ler her zaman açıktır. Büyük değişiklikler için önce iss
 
 Bu proje eğitim amaçlıdır.
 
----
-
-✨ *Geliştirilmiştir: Nazlı* ✨
